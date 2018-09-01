@@ -1,14 +1,15 @@
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
     <head>
+        <title>Above All Home Inspection - @yield('title')</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Above All Home Inspection - @yield('title')</title>
-
-         <link rel="stylesheet" type="text/css" href="/css/app.css">
+        <link rel="stylesheet" type="text/css" href="/css/app.css">
+        <link rel="stylesheet" type="text/css" href="/css/primary.css">
+        <script type="text/javascript" src="/js/app.js"></script>
     </head>
     <body>
-asd
+
     </body>
 </html>
