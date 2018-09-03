@@ -10471,3 +10471,10 @@ a.text-dark:focus {
   }
 }
 
+.carousel-item {
+  height: 75vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
+
