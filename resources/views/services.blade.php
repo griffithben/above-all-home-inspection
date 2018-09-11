@@ -2,6 +2,8 @@
 
 @section('title', 'Services')
 
+@php $menu = 'services' @endphp
+
 @section('content')
     <section class="py-5">
         <div class="container">

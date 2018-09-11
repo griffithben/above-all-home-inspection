@@ -8,19 +8,19 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
+                <li class="nav-item @if($menu == 'home') active @endif">
                     <a class="nav-link" href="/">Home</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item @if($menu == 'services') active @endif">
                     <a class="nav-link" href="/services">Services</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item @if($menu == 'inspector') active @endif">
                     <a class="nav-link" href="/inspector">Inspector</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item @if($menu == 'quote') active @endif">
                     <a class="nav-link" href="/quote">Online Quote</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item @if($menu == 'contact') active @endif">
                     <a class="nav-link" href="/contact">Contact</a>
                 </li>
             </ul>
