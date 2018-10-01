@@ -18,7 +18,7 @@
                     <a class="nav-link" href="/inspector">Inspector</a>
                 </li>
                 <li class="nav-item @if($menu == 'quote') active @endif">
-                    <a class="nav-link" href="/quote">Online Quote</a>
+                    <a class="nav-link" href="/pricing">Pricing</a>
                 </li>
                 <li class="nav-item @if($menu == 'contact') active @endif">
                     <a class="nav-link" href="/contact">Contact</a>

@@ -25,7 +25,7 @@
                     <!-- Slide One - Set the background image for this slide in the line below -->
                     <div class="carousel-item active" style="background-image: url('/img/slider-1.jpg')">
                         <div class="carousel-caption d-none d-md-block">
-                            <h3>First Slide</h3>
+                            <h3>No Roof Is To Tall</h3>
                             <p>This is a description for the first slide.</p>
                         </div>
                     </div>

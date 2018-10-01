@@ -23,8 +23,8 @@ Route::get('/inspector', function () {
     return view('inspector');
 });
 
-Route::get('/quote', function () {
-    return view('quote');
+Route::get('/pricing', function () {
+    return view('pricing');
 });
 
 Route::get('/contact', function () {

@@ -10,6 +10,17 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h1>Services</h1>
+                    <p>
+                        A home inspection is a visual process where all of the items typically used within a home are tested and/or operated to verify proper operation or installation. 
+                    </p>
+                    <p>
+                        Doors and windows are opened and closed, roofing materials inspected, air-conditioning and heating systems operated. The home inspector will test/look at over 400 items during the home inspection. All the while making notes on the condition and operation of the components tested.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1>Home Inspection Covers</h1>
                 </div>
             </div>
             <div class="row">
