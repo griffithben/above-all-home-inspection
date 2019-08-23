@@ -18,6 +18,13 @@
                     </p>
                 </div>
             </div>
+            <h1>Coverage Area</h1>
+            <div class="row">
+                <div class="col-sm-12">
+                    <img src="/img/map.png" width="100%" />
+                </div>
+            </div>
+            <br/>
             <div class="row">
                 <div class="col-sm-12">
                     <h1>Home Inspection Covers</h1>
