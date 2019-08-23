@@ -30,7 +30,7 @@
                     </div>
                     <h5 class="text-center mt-3 font-weight-bold">BEN GRIFFITH</h5>
                     <p class="text-center">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                        Kevin did an incredibly thorough job and saved us from purchasing a home with some serious foundation issues.  Thank you Kevin!
                     </p>
                 </div>
                 <div class="col-sm-1">
@@ -41,7 +41,7 @@
                     </div>
                     <h5 class="text-center mt-3 font-weight-bold">JANE DOE</h5>
                     <p class="text-center">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </p>
                 </div>
                 <div class="col-sm-1">
@@ -52,7 +52,7 @@
                     </div>
                     <h5 class="text-center mt-3 font-weight-bold">JOHN DOE</h5>
                     <p class="text-center">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </p>
                 </div>
             </div>
