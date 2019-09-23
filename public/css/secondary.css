@@ -2,3 +2,19 @@
   height: 75px;
 }
 
+form label{
+  display: block;
+  margin-bottom: 0rem;
+}
+
+form input[type=text]{
+    margin-bottom: 1rem;
+}
+
+form input[type=submit]{
+    margin-top: 1rem;
+}
+
+form select{
+    margin-bottom: 1rem;
+}

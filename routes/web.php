@@ -26,6 +26,7 @@ Route::get('/inspector', function () {
 Route::get('/pricing', function () {
     return view('pricing');
 });
+Route::post('/pricing', 'PricingRequestController@create');
 
 Route::get('/contact', function () {
     return view('contact');
