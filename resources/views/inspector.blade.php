@@ -5,7 +5,7 @@
 @php $menu = 'inspector' @endphp
 
 @section('content')
-<section class="py-5">
+    <section class="py-5">
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">

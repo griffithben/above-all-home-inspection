@@ -78,6 +78,9 @@ body {
   color: #212529;
   text-align: left;
   background-color: #f8fafc;
+  position: relative;
+  padding-bottom: 142px;
+  min-height: 100vh;
 }
 
 [tabindex="-1"]:focus {
@@ -10484,5 +10487,8 @@ a.text-dark:focus {
 
 footer {
   background-color: #21426b !important;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
 }
 
