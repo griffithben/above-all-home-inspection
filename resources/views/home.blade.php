@@ -37,20 +37,20 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="text-center">
-                        <img src="/img/testimonial_3.jpg" class="rounded-circle w-75" alt="...">
+                        <img src="/img/test_1.png" class="w-100" alt="...">
                     </div>
-                    <h5 class="text-center mt-3 font-weight-bold">JANE DOE</h5>
+                    <h5 class="text-center mt-3 font-weight-bold">CRACKED ROOF</h5>
                     <p class="text-center">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Kevin was able to crawl through the attic in the blistering heat find out what was going on under the roof.  Fortunately, he was able to find the issue at hand!
                     </p>
                 </div>
                 <div class="col-sm-1">
                 </div>
                 <div class="col-sm-3">
                     <div class="text-center">
-                        <img src="/img/testimonial_2.jpg" class="rounded-circle w-75" alt="...">
+                        <img src="/img/test_2.png" class="w-100" alt="...">
                     </div>
-                    <h5 class="text-center mt-3 font-weight-bold">JOHN DOE</h5>
+                    <h5 class="text-center mt-3 font-weight-bold">SETTLING FOUNDATION</h5>
                     <p class="text-center">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </p>
