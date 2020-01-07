@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\PricingRequest;
 
-class PricingRequestController extends Controller
+class ContactRequestController extends Controller
 {
     public function create(PricingRequest $pricingRequest)
     {

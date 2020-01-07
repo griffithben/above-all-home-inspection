@@ -19,15 +19,8 @@ Route::get('/services', function () {
     return view('services');
 });
 
-Route::get('/inspector', function () {
-    return view('inspector');
-});
-
-Route::get('/pricing', function () {
-    return view('pricing');
-});
-Route::post('/pricing', 'PricingRequestController@create');
-
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::post('/contact', 'ContactRequestController@create');

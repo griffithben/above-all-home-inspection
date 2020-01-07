@@ -26,14 +26,14 @@
                     <div class="carousel-item active" style="background-image: url('/img/slider-1.jpg')">
                         <div class="carousel-caption d-none d-md-block">
                             <h3>No Roof Is To Tall</h3>
-                            <p>This is a description for the first slide.</p>
+                            <p>Don't let a damaged roof ruin your next home!</p>
                         </div>
                     </div>
                     <!-- Slide Two - Set the background image for this slide in the line below -->
                     <div class="carousel-item" style="background-image: url('/img/slider-2.jpg')">
                         <div class="carousel-caption d-none d-md-block">
-                            <h3>Second Slide</h3>
-                            <p>This is a description for the second slide.</p>
+                            <h3>I'll Find the Cracks</h3>
+                            <p>No one wants an unstable foundation.</p>
                         </div>
                     </div>
                     <!-- Slide Three - Set the background image for this slide in the line below -->
@@ -59,6 +59,6 @@
         @yield('content')
 
         @include('partials.footer')
-        
+
     </body>
 </html>
