@@ -31,7 +31,7 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                    <form method="POST" action="/pricing">
+                    <form method="POST" action="/contact">
                         @if ($errors->any())
                             <div class="alert alert-danger">
                                 <ul>
@@ -39,6 +39,11 @@
                                         <li>{{ $error }}</li>
                                     @endforeach
                                 </ul>
+                            </div>
+                        @endif
+                        @if(Session::has('success'))
+                            <div class="alert alert-success">
+                                {{ Session::get('success') }}
                             </div>
                         @endif
                         @csrf

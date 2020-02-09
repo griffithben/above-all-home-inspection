@@ -28,6 +28,8 @@ class PricingRequest extends FormRequest
             'last_name' => 'required',
             'email' => 'required|email',
             'phone' => 'required',
+            'approximate_square_feet' => 'required',
+            'comments' => 'nullable',
         ];
     }
 }
