@@ -18,6 +18,10 @@ class ContactRequestController extends Controller
             'griffith.ben@gmail.com',
             'Quote Requested From '.$validated['first_name'].' '.$validated['last_name']
         );
+        
+        $email->addContent(
+            "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
+        );
 
         $sendgrid = new SendGrid(env('SENDGRID_API_KEY'));
         $sendgrid->send($email);
