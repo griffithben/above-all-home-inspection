@@ -39,8 +39,8 @@
                     <!-- Slide Three - Set the background image for this slide in the line below -->
                     <div class="carousel-item" style="background-image: url('/img/slider-3.jpg')">
                         <div class="carousel-caption d-none d-md-block">
-                            <h3>Third Slide</h3>
-                            <p>This is a description for the third slide.</p>
+                            <h3>Thorough and Precise</h3>
+                            <p>A thorough and precise inspection every time!</p>
                         </div>
                     </div>
                 </div>
