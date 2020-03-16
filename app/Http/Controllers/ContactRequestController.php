@@ -14,7 +14,7 @@ class ContactRequestController extends Controller
         $email = new \SendGrid\Mail\Mail();
         $email->setFrom("website@aboveallhomeinspection.com", "Online Quote");
         $email->setSubject('Quote Requested From '.$validated['first_name'].' '.$validated['last_name']);
-        $email->addTo('griffith.ben@gmail.com', "Ben Griffith");
+        $email->addTo(getenv('TO_EMAIL'), "Owner");
         $email->addContent(
             "text/html",
             "<span><strong>Name:</strong> ".$validated['first_name']." ".$validated['last_name']."</span><br/>
