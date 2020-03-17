@@ -52,7 +52,7 @@
                     </div>
                     <h5 class="text-center mt-3 font-weight-bold">SETTLING FOUNDATION</h5>
                     <p class="text-center">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Foundation separated from wall most likely caused by improper drainage and landscaping.
                     </p>
                 </div>
             </div>
